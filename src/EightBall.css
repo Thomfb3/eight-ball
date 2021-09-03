@@ -1,0 +1,58 @@
+.EightBall {
+    width: 400px;
+    height: 400px;
+    border-radius: 500px;
+    margin: 0 auto;
+    position: relative;
+    top: 200px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+.EightBall-reset-btn {
+    margin: 0 auto;
+    position: relative;
+    top: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+
+.EightBall-color-records {
+    margin: 0 auto;
+    position: relative;
+    top: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.EightBall-color-records p {
+    padding: 20px;
+}
+
+.EightBall-red-count {
+    font-size: 20px;
+    font-weight: bold;
+    color: red;
+}
+
+.EightBall-green-count {
+    font-size: 20px;
+    font-weight: bold;
+    color: green;
+}
+
+.EightBall-gold-count {
+    font-size: 20px;
+    font-weight: bold;
+    color: goldenrod;
+}
